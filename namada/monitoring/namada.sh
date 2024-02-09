@@ -13,7 +13,7 @@ TELEGRAM_CHAT_ID="<TELEGRAM_CHAT_ID>"
 TELEGRAM_BOT_TOKEN="<TELEGRAM_TOKEN>"
 
 # Node name
-NODE_NAME="my_validatoe"
+NODE_NAME="xtestnet"
 
 # Alert threshold for the block height difference between the node and network
 BLOCK_GAP_ALARM=100
